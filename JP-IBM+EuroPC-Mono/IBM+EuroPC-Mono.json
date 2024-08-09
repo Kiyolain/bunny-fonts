@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "IBM+EuroPC-Mono",
+    "previewText": "Familiar? probably not... Pretty? yes... This is a limited bitmap font, it will not have all possible characters, nor bold or italics.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-Bold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-BoldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-Medium": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-MediumItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-Normal": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-NormalItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-Semibold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-Bold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-Medium": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-Normal": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "NotoSans-Semibold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_IBM_PS-55_re.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Kiyolain/bunny-fonts/raw/main/JP-IBM+EuroPC-Mono/Px437_EuroPC_Mono.ttf"
+    }
+}
