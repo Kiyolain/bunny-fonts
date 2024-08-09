@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "A Cozy Bitmap",
+    "previewText": "Simple Pyoncord Font Pack by @Kiyolain",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "ggsans-Bold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "ggsans-BoldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/a1eca14a62be2980fdbfc09139588c211cf26e4f/BitmapTTF(fontsgeek)/BM-Bold-Italic.ttf",
+        "ggsans-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Italic.ttf",
+        "ggsans-Medium": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Regular.ttf",
+        "ggsans-MediumItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Italic.ttf",
+        "ggsans-Normal": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Italic.ttf",
+        "NotoSans-Bold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "NotoSans-Medium": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Regular.ttf",
+        "NotoSans-Normal": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Italic.ttf",
+        "NotoSans-Semibold": "https://github.com/Kiyolain/bunny-fonts/raw/main/BitmapTTF(fontsgeek)/BM-Bold-Regular.ttf",
+        "SourceCodePro-Semibold": "https://github.com/slavfox/Cozette/releases/download/v.1.25.1/CozetteVector.ttf"
+    }
+}
